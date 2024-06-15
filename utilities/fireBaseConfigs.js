@@ -23,3 +23,5 @@ const db = getFirestore(app);
 
 //export { app , auth , createUserWithEmailAndPassword , signInWithEmailAndPassword , onAuthStateChanged , signOut ,sendPasswordResetEmail , deleteUser , db , collection , addDoc , setDoc , doc ,sendEmailVerification}
 export default app;
+
+// Firebase Config
