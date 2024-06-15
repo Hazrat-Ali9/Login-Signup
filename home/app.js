@@ -137,4 +137,4 @@ let logoutHandler = () => {
 }
 logout.addEventListener('click' , logoutHandler)  
 
-// Logout option
+// Logout Option
