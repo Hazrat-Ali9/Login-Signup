@@ -100,6 +100,7 @@ window.signUpHandler = () => {
 const submit = document.querySelector('#submit');
 submit.addEventListener('click', signUpHandler);
 
+// sign up
                 
                 
                 
